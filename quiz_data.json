@@ -1,0 +1,50 @@
+[
+    { "question":"What is the Capital of India?",
+      "choices":["Mumbai","Chennai","Pune","New Delhi"],
+      "correct_ans":"4"
+    },
+    { "question":"Who was India's first Prime Minister?",
+      "choices":["Jawaharlal Nehru","Indira Gandhi","Mahatman Gandhi","Vallabhbhai Patel"],
+      "correct_ans":"1"
+    },
+    {
+        "question" : "Who is India's current President?",
+        "choices" : ["Ram Nath Kovind", "Droupadi Murmu", "Pratibha Patil", "Pranab Mukherjee"],
+        "correct_ans" : "2"
+    },
+    {
+        "question" : "How many states in India have Legislative Council (Vidhan parishad)?",
+        "choices" : ["6", "8", "11", "12"],
+        "correct_ans" : "1"
+    },
+    {
+        "question" : "What was the basis of the reorganization of states in India in the year 1959?",
+        "choices" : ["Religion", "Language", "Neither", "Both"],
+        "correct_ans" : "2"
+    },
+    {
+        "question" : "When did India get its Independence?",
+        "choices" : ["14th August 1950", "15th August 1947", "26th January 1948", "15th September 1947"],
+        "correct_ans" : "2"
+    },
+    {
+        "question" : "The Taj Mahal is on the banks of which river?",
+        "choices" : ["Narmada", "Ganga", "Yamuna", "Kaveri"], 
+        "correct_ans" : "3"
+    },
+    {
+        "question" : "Who is popularly called as the Iron Man of India?",
+        "choices" : ["Jawaharlal Nehru", "Subash Chandra Bose", "A.P.J Abdul Kalam", "Vallabhbhai Patel"],
+        "correct_ans" : "4"
+    },
+    {
+        "question" : "Which is the highest Mountain peak of India?",
+        "choices" : ["Kanchenjunga", "Mount Everest", "Nanda Devi", "Kamet"],
+        "correct_ans" : "1"
+    },
+    {
+        "question" : "What is the National Animal of India?",
+        "choices" : ["Cheetah", "Jaguar", "Royal Bengal Tiger", "Lion"],
+        "correct_ans" : "3"
+    }
+  ] 
